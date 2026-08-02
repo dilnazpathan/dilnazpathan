@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilnaz+Pathan;MCA+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Passionate+About+AI%2C+ML+%26+Data+Science;Learning+and+Building+Innovative+Projects" alt="Typing SVG" />
 </h1>
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
+<h3 align="center">🚀 Aspiring Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
 
 <p align="center">
 
