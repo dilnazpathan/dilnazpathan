@@ -34,10 +34,54 @@
 - 📍 Based in **India**
 
 ---
+## 🛠️ Tech Stack
+
+### 🧠 AI / ML / Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🗄️ Database & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| WasteWise-AI | AI-powered waste management project |
+| Smart Agriculture MLOps | Machine Learning project for agricultural price prediction |
+| Jungle Safari | Web application developed using PHP, HTML, CSS and MySQL |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilnazpathan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilnazpathan&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilnazpathan&theme=tokyo-night)
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/dilnaz-pathan-5b25242a9/
+- GitHub: https://github.com/dilnazpathan
 
 
 <p align="center">
