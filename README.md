@@ -52,15 +52,19 @@
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilnazpathan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnazpathan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilnazpathan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilnazpathan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnazpathan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilnazpathan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
