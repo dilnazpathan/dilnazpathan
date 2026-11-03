@@ -89,12 +89,17 @@
 
 ---
 
+
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/dilnaz-pathan-5b25242a9/
-- GitHub: https://github.com/dilnazpathan
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/dilnaz-pathan-5b25242a9/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dilnazpathan67@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/dilnazpathan">
+<img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
